@@ -1,0 +1,13 @@
+[en]
+title = "Hongyi Luo"
+weight = 1
+LanguageName = "EN"
+contentDir = "content/english"
+
+[cn]
+title = "罗弘毅"
+description = "士不可以不弘毅"
+contentDir = "content/chinese" 
+weight = 2
+#LanguageDirection = "rtl" 
+LanguageName = "CN"

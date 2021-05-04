@@ -1,0 +1,23 @@
+  [[main]]
+  name = "主要"
+  identifier = "main"
+  weight = 100
+  url = "/cn"
+
+  [[main]]
+  name = "博文"
+  weight = 200
+  identifier = "posts"
+  url = "/cn/post"
+
+  [[main]]
+  name = "关于"
+  weight = 300
+  identifier = "about"
+  url = "/cn/about"
+
+  [[main]]
+  name = "联系"
+  weight = 400
+  identifier = "contact"
+  url = "/cn/contact"
