@@ -6,7 +6,16 @@
     <description>Recent content on Hongyi Luo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Mar 2021 21:47:41 +0000</lastBuildDate><atom:link href="https://bghjmn32.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Jun 2021 22:54:24 +0200</lastBuildDate><atom:link href="https://bghjmn32.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week-Report(TextRank)</title>
+      <link>https://bghjmn32.github.io/post/week-reporttextrank/</link>
+      <pubDate>Thu, 10 Jun 2021 22:54:24 +0200</pubDate>
+      
+      <guid>https://bghjmn32.github.io/post/week-reporttextrank/</guid>
+      <description>&lt;p&gt;Starting from June 7th, I spent three days reading and implementing a page rank based text summarization algorithm.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>The Figure Shortcode</title>
       <link>https://bghjmn32.github.io/post/figure-shortcode/</link>
