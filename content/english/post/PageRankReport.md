@@ -1,21 +1,14 @@
-+++
-author = "Hongyi LUO"
-title = "TextRank text"
-date = "2021-06-11"
-description = "Implemented textrank-based text summarization algorithm"
-tags = [
-    "textrank",
+---
+title: "PageRankReport (2021/06/07-2021/06/11)"
+date: 2021-06-11T22:44:21+02:00
+Description: "Implemented textrank-based text summarization algorithm"
+Tags: ["textrank",
     "text summarization",
-    "motor design",
-]
-categories = [
-    "LCM",
-    "thesis",
-]
-series = ["Thesis report"]
-aliases = ["migrate-from-jekyl"]
-+++
-
+    "motor design"]
+Categories: ["LCM",
+    "thesis",]
+DisableComments: false
+---
 Starting from June 7th, I spent three days reading and implementing a page rank based text summarization algorithm.
 <!--more-->
 
@@ -34,7 +27,7 @@ In our experiments, we found that the real problem lies in the evaluation. Tradi
 
 Based on these facts, we may have to resort to expert evaluation, which relies on the LCM motor engineers to give their subjective comments.
 
-{{< figure src="https://i.imgur.com/3sUAaHn.png" alt="image" caption="figure-normal (without any classes)" >}}
+{{< figure src="https://i.imgur.com/3sUAaHn.png" alt="image" caption="main process of textrank algorithm" >}}
 
 ## Code
 

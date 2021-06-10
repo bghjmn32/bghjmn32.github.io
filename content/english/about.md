@@ -6,6 +6,6 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-Hi, here is Hongyi Luo, a charming boy :)
+Hi, here is Hongyi LUO, a charming boy :)
 
 [My CV](https://drive.google.com/file/d/1XJFCkWNLwd_L99qtuWY16aQge7_MEyyP/view?usp=sharing)
