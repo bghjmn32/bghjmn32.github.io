@@ -1,0 +1,7 @@
+第一步 
+hugo new post/xxxx.md
+
+写完第二步
+hugo -D 生成
+
+再github推上去
