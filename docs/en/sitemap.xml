@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://bghjmn32.github.io/</loc>
-    <lastmod>2021-06-19T15:13:13+02:00</lastmod>
+    <lastmod>2021-07-05T02:04:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://bghjmn32.github.io/categories/</loc>
-    <lastmod>2021-06-19T15:13:13+02:00</lastmod>
+    <lastmod>2021-07-05T02:04:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
@@ -28,17 +28,20 @@
                 href="https://bghjmn32.github.io/categories/"
                 />
   </url><url>
-    <loc>https://bghjmn32.github.io/post/evaluation/</loc>
-    <lastmod>2021-06-19T15:13:13+02:00</lastmod>
+    <loc>https://bghjmn32.github.io/tags/generative-text-summary/</loc>
+    <lastmod>2021-07-05T02:04:22+02:00</lastmod>
   </url><url>
     <loc>https://bghjmn32.github.io/categories/lcm/</loc>
-    <lastmod>2021-06-19T15:13:13+02:00</lastmod>
+    <lastmod>2021-07-05T02:04:22+02:00</lastmod>
+  </url><url>
+    <loc>https://bghjmn32.github.io/post/midsummerreport/</loc>
+    <lastmod>2021-07-05T02:04:22+02:00</lastmod>
   </url><url>
     <loc>https://bghjmn32.github.io/tags/motor-design/</loc>
-    <lastmod>2021-06-19T15:13:13+02:00</lastmod>
+    <lastmod>2021-07-05T02:04:22+02:00</lastmod>
   </url><url>
     <loc>https://bghjmn32.github.io/post/</loc>
-    <lastmod>2021-06-19T15:13:13+02:00</lastmod>
+    <lastmod>2021-07-05T02:04:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
@@ -51,7 +54,7 @@
                 />
   </url><url>
     <loc>https://bghjmn32.github.io/tags/</loc>
-    <lastmod>2021-06-19T15:13:13+02:00</lastmod>
+    <lastmod>2021-07-05T02:04:22+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
@@ -64,12 +67,15 @@
                 />
   </url><url>
     <loc>https://bghjmn32.github.io/tags/text-summarization/</loc>
+    <lastmod>2021-07-05T02:04:22+02:00</lastmod>
+  </url><url>
+    <loc>https://bghjmn32.github.io/categories/thesis/</loc>
+    <lastmod>2021-07-05T02:04:22+02:00</lastmod>
+  </url><url>
+    <loc>https://bghjmn32.github.io/post/evaluation/</loc>
     <lastmod>2021-06-19T15:13:13+02:00</lastmod>
   </url><url>
     <loc>https://bghjmn32.github.io/tags/textrank/</loc>
-    <lastmod>2021-06-19T15:13:13+02:00</lastmod>
-  </url><url>
-    <loc>https://bghjmn32.github.io/categories/thesis/</loc>
     <lastmod>2021-06-19T15:13:13+02:00</lastmod>
   </url><url>
     <loc>https://bghjmn32.github.io/post/pagerankreport/</loc>
